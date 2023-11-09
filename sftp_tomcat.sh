@@ -9,3 +9,7 @@ bye
 EOF
 ssh ec2-user@172.31.17.24 /opt/tomcat8/bin/shutdown.sh
 ssh ec2-user@172.31.17.24 /opt/tomcat8/bin/startup.sh
+
+
+
+
